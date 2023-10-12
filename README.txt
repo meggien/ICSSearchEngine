@@ -1,5 +1,3 @@
-CS 121 Assignment 3: Search Engine - Meggie Nguyen, Kenta Adachi, Nina Liaw
-
 Module Structure:
 *we have 3 of some files, bigram indexing has a 2 appended to the name and trigram
  indexing has a 3 appended (file_name/2/3)*
